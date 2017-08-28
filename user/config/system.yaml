@@ -30,7 +30,7 @@ pages:
     markdown: true
     twig: false
   twig_first: false
-  never_cache_twig: false
+  never_cache_twig: true
   events:
     page: true
     twig: true
@@ -70,7 +70,7 @@ pages:
       - form
       - forms
 cache:
-  enabled: true
+  enabled: false
   check:
     method: file
   driver: auto
@@ -81,8 +81,8 @@ cache:
   gzip: false
   allow_webserver_gzip: false
 twig:
-  cache: true
-  debug: true
+  cache: false
+  debug: false
   auto_reload: true
   autoescape: false
   undefined_functions: true
