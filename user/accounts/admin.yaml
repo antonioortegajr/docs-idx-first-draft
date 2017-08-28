@@ -1,0 +1,11 @@
+email: antonio@idxbroker.com
+fullname: admin
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$yoOCe8V2KyPf0duH1xqNgeW1FJi9Q6cOx4ZDm9O2v7Ha7XZfv8aJ.
