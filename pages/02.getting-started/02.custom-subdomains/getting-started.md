@@ -3,8 +3,6 @@ title: 'Custom Subdomains'
 taxonomy:
     category:
         - getting-started
-    tag:
-        - start
 ---
 
 IDX Broker refers to CNAME records as custom subdomians. By default your IDX Pages are hosted on a subdomain of idxbroker.com. For example, if your website address is: http://greatpropertyforsale.com, your standard IDX links would have an address starting with: http://greatpropertyforsale.idxbroker.com/ (ie: http://subdomain.primarydomain.com/)

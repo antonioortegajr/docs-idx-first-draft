@@ -1,6 +1,6 @@
 # Contribute
 
-## How
+## How to contribute
 
 You can contribute to this repo in a number of ways.
 
