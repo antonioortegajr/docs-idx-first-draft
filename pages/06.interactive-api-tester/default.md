@@ -5,7 +5,7 @@ order_by: ''
 order_manual: ''
 ---
 
-				 
+
  <link rel="icon" type="image/png" href="https://developers.idxbroker.com/wp-content/plugins/wp_swagger/swagger_ui/images/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="wp_swagger/swagger_ui/images/favicon-16x16.png" sizes="16x16" />
   <link href='https://developers.idxbroker.com/wp-content/plugins/wp_swagger/swagger_ui/css/typography.css' media='screen' rel='stylesheet' type='text/css'/>
@@ -34,7 +34,7 @@ order_manual: ''
   <!-- <script src='https://developers.idxbroker.com/wp-content/plugins/wp_swagger/swagger_ui/lang/en.js' type='text/javascript'></script> -->
 
   <script type="text/javascript">
-      
+
 $(function () {
 var def = 'https://raw.githubusercontent.com/antonioortegajr/idx-swagger-def/master/test/test3.yaml'
       var url = def;
