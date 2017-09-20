@@ -2,8 +2,7 @@
 title: 'Getting Started'
 taxonomy:
     category:
-        - 'getting started'
-child_type: docs
+        - docs
 ---
 
 ### Basic Account Set-ups
